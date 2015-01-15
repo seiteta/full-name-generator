@@ -1,4 +1,4 @@
 # name-generator
-A python script that generates full names from a csv file.
+A python script that generates random full names.
 
-The csv file contains 500 very common French names (first names and last names) and their relative frequency.
+A csv file containing first and last names and their relative frequency is required. In this repo, `names.csv` cointains 500 very common French names.
